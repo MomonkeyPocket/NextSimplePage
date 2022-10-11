@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Demo
+
+https://frozen-falls-93279.herokuapp.com/
+
+## SSG (Server-side Generation)
+
+https://nextjs.org/docs/basic-features/data-fetching/get-static-paths
+
+## SSR (Server-side Rendering)
+
+https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props
+
 ## Getting Started
 
 First, run the development server:
